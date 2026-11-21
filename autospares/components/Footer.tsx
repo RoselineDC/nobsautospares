@@ -29,7 +29,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="border-t border-white/10 py-3 text-center text-[10px] text-white/60">
-        © {new Date().getFullYear()} Nobs Auto Spares · nobsautospares.com
+        © 2026 Nobs Auto Spares · nobsautospares.com
       </div>
     </footer>
   );
